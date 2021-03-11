@@ -1,0 +1,12 @@
+﻿Deep Learning Environment Installation
+
+Steps:
+If you're a Windows user open CV_SetUP_windows.yml in an editor ==>> Goto the last line ==> Change "<User_Name>" to your username.
+
+Then follow the following steps:
+
+1. Open Anaconda Prompt (for Windows) or Terminal (for Mac/Linux)
+2. Choose the appropriate ".yml" file according to your operating system
+3. Use the following commands in the given order:
+
+conda create -n computervision CV_SetUP_windows.yml
